@@ -1,0 +1,16 @@
+# Django-related
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+/static/
+media/
+
+# Virtual environment
+venv/
+.env/
+
+# IDE-related files
+.vscode/
+.idea/
